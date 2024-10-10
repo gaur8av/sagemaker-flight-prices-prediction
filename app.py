@@ -271,7 +271,7 @@ y_train = train.price.copy()
 
 # fit and save the preprocessor
 preprocessor.fit(X_train, y_train)
-joblib.dump(preprocessor, "preprocessor.joblib")
+
 
 st.title("Flights Prices Prediction - AWS SageMaker")
 
