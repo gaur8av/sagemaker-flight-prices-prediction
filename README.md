@@ -1,7 +1,5 @@
 # Flight price Prediction:End-to-End machine learning project using AWS sagemaker
 
-# Flight Price Prediction
-
 Welcome to the **Flight Price Prediction** project! This repository hosts a machine learning-based solution for predicting flight ticket prices, providing insights into trends and factors affecting airline fares. The project uses Amazon SageMaker for model development and a user-friendly web interface is deployed using Streamlit Cloud.
 
 ### About XGBoost Model
